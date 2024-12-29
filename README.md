@@ -62,7 +62,8 @@
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivinerX&theme=radical"/>
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DivinerX&theme=radical"/>
 </div>
-
+<!--
 ## 🥽 3-D Contribution graph
 
 <img src="https://github.com/DivinerX/DivinerX/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+-->
